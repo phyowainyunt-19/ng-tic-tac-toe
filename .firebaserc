@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ngttt-abc123": {
+      "hosting": {
+        "tic-tac-toe": [
+          "ngttt-abc123"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ngttt-abc123"
+  }
+}

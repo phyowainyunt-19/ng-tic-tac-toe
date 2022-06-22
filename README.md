@@ -1,26 +1,50 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+This project was generated with [Angular CLI]
+
+## Project Status
+
+Completed | Deployed
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Project Live
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[Live View](https://ngttt-abc123.firebaseapp.com/)
 
-## Build
+## Installation and Setup Instructions
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Clone down this repository. You will need `node`, `angular/cli` and `npm` installed globally on your machine.
 
-## Running unit tests
+Installation:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+`npm install`
 
-## Running end-to-end tests
+To Start Server:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+`ng serve -o`
+
+To Visit App:
+
+`localhost:4200`
+
+## Reflection
+
+(June 22nd 2022). Project goals included learning `angularjs` familiarizing myself with documentation for new features.
+
+
+## Notes
+
+This app is deployed on firebase hosting and also a progressive web app so that you can freely install not only on your mobile but also on your desktop. You may be facing some Nebular UI errors but feel free to use any other UI frameworks. If you get stuck, just go to `stackoverflow` 😂😂.
+
+
+## Resources 
+
+- https://github.com/nrwl/nx/discussions/7183
+- https://github.com/simondotm/nx-firebase
+
 
 ## Further help
 
